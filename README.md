@@ -49,3 +49,5 @@ and delivery management by improving their data model efficiency.
 - Reports about the details of the customer and suppliers based on their geographical
 location
 - Limitations and Summary about the report.
+
+[Project Report](https://github.com/gurneetbedi/Shipt/blob/main/Team%20Tycoons%20SHIPT%20Final%20Report%20.pdf).
