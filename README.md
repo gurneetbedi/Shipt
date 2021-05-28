@@ -28,23 +28,23 @@ inaccurate and unreliable.
 Company: Financial and Target Market Analysis
 Shipt has raised a total of $65.2M in funding over 3 rounds from investors Harbert Venture
 Partners, Eventures and Greycroft. In 2017, Target bought Shipt for a total of $550 million.
-● Customer Segments: Customers who want/need groceries and essentials delivered at
+- Customer Segments: Customers who want/need groceries and essentials delivered at
 their doorstep
-● Shoppers
-○ Anyone can sign up to work for Shipt and shop for customers’ needs
-○ Shoppers must have their own vehicle to deliver the products to their customers
-○ Free-lancers who want some extra money
-● Stores: Shipt helps various stores to increases their sales/revenue
+- Shoppers
+- Anyone can sign up to work for Shipt and shop for customers’ needs
+- Shoppers must have their own vehicle to deliver the products to their customers
+- Free-lancers who want some extra money
+- Stores: Shipt helps various stores to increases their sales/revenue
 Goals & Purpose
 Our aim is to create a relational database that can help Shipt manage their customer relationships
 and delivery management by improving their data model efficiency.
 Problem Statement
-● Overbooked for deliveries & misallocation of delivery order
-● Data Redundancy
-● Estimated Time Arrival for Delivery is inaccurate
-● Allows users to place orders for out of stock products
+- Overbooked for deliveries & misallocation of delivery order
+- Data Redundancy
+- Estimated Time Arrival for Delivery is inaccurate
+- Allows users to place orders for out of stock products
 Deliverables
-● Introduction to the data Model and preparation
-● Reports about the details of the customer and suppliers based on their geographical
+- Introduction to the data Model and preparation
+- Reports about the details of the customer and suppliers based on their geographical
 location
-● Limitations and Summary about the report.
+- Limitations and Summary about the report.
